@@ -1,0 +1,12 @@
+D:\shamim\University & College\Humber College\Courses\NET-012-C# and Windows Desktop Appl\4-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\HumberAssignment1.exe
+D:\shamim\University & College\Humber College\Courses\NET-012-C# and Windows Desktop Appl\4-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\HumberAssignment1.deps.json
+D:\shamim\University & College\Humber College\Courses\NET-012-C# and Windows Desktop Appl\4-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\HumberAssignment1.runtimeconfig.json
+D:\shamim\University & College\Humber College\Courses\NET-012-C# and Windows Desktop Appl\4-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\HumberAssignment1.runtimeconfig.dev.json
+D:\shamim\University & College\Humber College\Courses\NET-012-C# and Windows Desktop Appl\4-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\HumberAssignment1.dll
+D:\shamim\University & College\Humber College\Courses\NET-012-C# and Windows Desktop Appl\4-Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\HumberAssignment1.pdb
+D:\shamim\University & College\Humber College\Courses\NET-012-C# and Windows Desktop Appl\4-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\HumberAssignment1.AssemblyInfoInputs.cache
+D:\shamim\University & College\Humber College\Courses\NET-012-C# and Windows Desktop Appl\4-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\HumberAssignment1.AssemblyInfo.cs
+D:\shamim\University & College\Humber College\Courses\NET-012-C# and Windows Desktop Appl\4-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\HumberAssignment1.csproj.CoreCompileInputs.cache
+D:\shamim\University & College\Humber College\Courses\NET-012-C# and Windows Desktop Appl\4-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\HumberAssignment1.dll
+D:\shamim\University & College\Humber College\Courses\NET-012-C# and Windows Desktop Appl\4-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\HumberAssignment1.pdb
+D:\shamim\University & College\Humber College\Courses\NET-012-C# and Windows Desktop Appl\4-Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\HumberAssignment1.genruntimeconfig.cache

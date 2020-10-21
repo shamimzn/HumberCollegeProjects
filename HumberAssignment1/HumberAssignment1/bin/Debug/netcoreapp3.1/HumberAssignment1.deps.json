@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HumberAssignment1/1.0.0": {
+        "runtime": {
+          "HumberAssignment1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HumberAssignment1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
